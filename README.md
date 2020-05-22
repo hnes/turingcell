@@ -4,6 +4,10 @@
 
 Note: The English version of this article will come out soon. Please wait with patience.
 
+Note: Please visit and watch the new repository in https://github.com/turingcell/turingcell for future updates of this project.
+
+注意：请访问位于 https://github.com/turingcell/turingcell 的新仓库以及时地获取关于本项目的所有后续更新。
+
 ----
 
 ![TuringCell Logo](img/logo_small_icon.png)
